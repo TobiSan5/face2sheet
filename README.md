@@ -11,6 +11,7 @@ This project is a fork of Sketchup extension GitHub source tav/wikihouse-plugin,
 
 Similar functionality has been made before in other projects, noteably by renowned extension developer ThomThom, by who I found "Milling Tools" on the Extension Warehouse. By inspection, he has also forked the original project, around the year 2013.
 - [ThomThom/Wikihouse-plugin](https://github.com/thomthom/wikihouse-plugin)
+- [ThomThom/milling-tools](https://github.com/thomthom/milling-tools/)
 
 **License**
 
